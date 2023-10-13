@@ -1,0 +1,11 @@
+ Message : 'Hi, I understood the requirements completely and watched all the resources you have given me. 
+I have downloaded the illustrator for windows you provided in the resources but it was not compatible with the uxp developer tool.
+then i also downloaded the latest version through creative cloud but it still didn't allow me to create the extension for illustrator.
+On more research, i found that illustartor is recently updated by adobe but still there is no compatibilty for extension
+in illustrator according to my research and knowledge.
+So, then I created the extesion for the adobe photoshop with the time I had left. Kindly consider this extension for adobe photoshop as 
+this was all new for me but I have worked very hard and learned a lot while doing this test project. I have also provided the Readme.txt,
+the plugin is working for me and I would be pleased if you disscuss any issue that you face while running this project.
+
+Regards,
+Salman Haseeb'
